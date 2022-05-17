@@ -1,0 +1,10 @@
+BEGIN:VCARD
+N:Percy;Castle
+TEL;TYPE=work,VOICE:+51 993509391
+EMAIL:pcastle@dscasahierro.pe
+ORG:DS Casahierro Abogados
+TITLE:Main Partner
+ADR;TYPE=WORK,PREF:;;Álvarez Calderon 185 San Isidro;Lima;Lima;;Perú
+URL:http://www.dscasahierro.pe
+VERSION:3.0
+END:VCARD
